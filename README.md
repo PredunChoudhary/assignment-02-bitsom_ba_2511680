@@ -1,4 +1,4 @@
-# 📊 Business Analytics Project Portfolio
+# Business Analytics Project Portfolio
 
 ## Overview
 
